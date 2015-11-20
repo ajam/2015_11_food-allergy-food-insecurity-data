@@ -1,0 +1,30 @@
+food_name,size,price,price_note,allergens,alternatives
+Fruit,3 lbs,$4.21,3 lbs at average price for apple/banana/orange/grapes ((1.429+0.580+1.480+2.130)*3/4); prices from Bureau of Labor Statistics,,
+Vegetables,3 lbs,$4.79,3 lbs at average price for broccoli/carrots/romaine lettuce/peppers ((1.797+2.66+1.926)*3/4); prices from Bureau of Labor Statistics,,
+Milk,$3.39,1 gal,1 gallon whole milk,dairy,"8th Continent Soy Milk Original (5.98 — $2.99 half gallon based on calling Hy-Vee — soy);
+Silk Pure Almond Milk (5.98 — $2.99 half gallon https://www.hy-vee.com/grocery/PD9213205/Silk-Pure-Almond-Almond-Milk-Original — tree nuts);
+Rice Dream Rice Milk (7.58 — $3.79 half gallon https://www.hy-vee.com/grocery/PD9232260/Rice-Dream-Original-Enriched-Lactose-Free-Rice-Drink-64-fl-oz-Carton)"
+Bread,16–24 oz,$2.00,16-24 oz,"gluten, wheat, soy","Angelic Bakehouse Sprouted Seven-Grain Bread (3.99 — price from https://www.hy-vee.com/grocery/PD10052990/Angelic-Bakehouse-Sprouted-Seven-Grain-Bread — wheat, gluten);
+Ener-G Wheat, Gluten and Dairy Free Tapioca Loaf (5.99 — price from website 16 oz https://www.hy-vee.com/grocery/PD5635213/Ener-G-Wheat-Gluten-and-Dairy-Free-Tapioca-Loaf)"
+Peanut butter,1 lb,$2.68,1 pound,peanut,"Wowbutter (4.79 — 1 pound https://www.hy-vee.com/grocery/PD6527490/Wowbutter-Creamy-Peanut-Free-Spread — soy);
+Sunbutter (5.65 — 1 pound http://www.amazon.com/gp/product/B001HTIUDC/ref=s9_al_bw_g325_i4)"
+Pizza,10 oz,$3.89,10 oz (https://www.hy-vee.com/grocery/PD7868005/DIGIORNO-Traditional-Crust-Supreme-Small-Pizza-10-oz-Box),"gluten, wheat, dairy","Daiya Deliciously Dairy Free Pizza (6.06 — 7.29 for 12.03 oz https://www.hy-vee.com/grocery/PD8407921/Daiya-Deliciously-Dairy-Free-Pizza-Cheese-Lovers);
+Udis Gluten Free Pizza (7.49 — https://www.hy-vee.com/grocery/PD7855635/Udis-Gluten-Free-Three-Cheese-Pizza-10-oz-Box — dairy)"
+Canned beans,12 cans,$10.68,12 cans,,
+Pasta,12 oz,$1.18,12 oz spaghetti and macaroni (https://www.hy-vee.com/grocery/PD1096980/Ronzini-Healthy-Harvest-100-Whole-Grain-Spaghetti-12-oz-Box),"wheat, gluten",Ronzoni Gluten Free Spaghetti (2.59 — https://www.hy-vee.com/grocery/PD3522666/Ronzoni-Gluten-Free-Spaghetti)
+Cookies,13 oz,$3.79,13 oz (https://www.hy-vee.com/grocery/PD1588177/Nabisco-Chips-Ahoy-Original-Chocolate-Chip-Cookies-13-oz-Tray),"wheat, gluten, dairy","Mi-Del Gluten Free All Natural Chocolate Chip Cookies (5.83 — for 13 oz https://www.hy-vee.com/grocery/PD3496893/Mi-Del-Gluten-Free-All-Natural-Chocolate-Chip-Cookies — dairy, eggs);
+Lucy's Gluten Free Chocolate Chip Cookies (9.43 — 7.98 for 11 oz https://www.hy-vee.com/grocery/PD4496926/Lucys-Gluten-Free-Chocolate-Chip-Cookies — soy);
+Enjoy Life Soft Baked Cookies Chocolate Chip (9.51 — 8.78 for 12 oz https://www.hy-vee.com/grocery/PD5083066/Enjoy-Life-Soft-Baked-Cookies-Chocolate-Chip);
+Udi's Gluten Free Soft & Chewy Chocolate Chip Cookies (9.70 — 8.21 for 11 oz https://www.hy-vee.com/grocery/PD4496926/Lucys-Gluten-Free-Chocolate-Chip-Cookies — eggs)"
+Chicken,4 lbs,$5.68,"4 lbs, with 1.42 fresh, whole, per pound",,
+Flour,5 lbs,$2.19,"5 pounds, white all purpose (https://www.hy-vee.com/grocery/PD304344/Gold-Medal-All-Purpose-Flour)","wheat, gluten",Bob's Red Mill Gluten Free All Purpose Baking Flour (16.69 — 4.59 for 22 oz https://www.hy-vee.com/grocery/PD4497122/Bobs-Red-Mill-Gluten-Free-All-Purpose-Baking-Flour)
+Ice cream,1 pt,$4.59,1 pt (https://www.hy-vee.com/grocery/PD8341155/Ben-Jerrys-Chocolate-Chip-Cookie-Dough-Ice-Cream),dairy,"So Delicious Dairy Free Cashew Milk Non-Dairy Frozen Dessert (5.79 — https://www.hy-vee.com/grocery/PD13295013/So-Delicious-Dairy-Free-Cashew-Milk-Non-Dairy-Frozen-Dessert-Snickerdoodle — tree nuts);
+So Delicious Dairy Free Coconut Milk Frozen Dessert (5.99 — https://www.hy-vee.com/grocery/PD12197385/So-Delicious-Dairy-Free-Coconut-Milk-Frozen-Dessert-Chocolate)"
+Cereal,12 oz,$2.99,12 oz (https://www.hy-vee.com/grocery/PD1136527/Kelloggs-Rice-Krispies-Cereal),gluten,Rice Chex (3.39 — 12 oz https://www.hy-vee.com/grocery/PD392481/General-Mills-Rice-Chex-Gluten-Free-Cereal)
+Baby formula,12.4 oz,$14.99,12.4 oz canister (https://www.hy-vee.com/grocery/PD3454400/Similac-Advance-Infant-Formula-with-Iron-Milk-Based-Powder),"dairy, soy","Similac Soy Infant Formula (16.18 — https://www.hy-vee.com/grocery/PD5327692/Similac-Soy-Infant-Formula-with-Iron-Isomil — soy);
+Neocate Infant Formula (34.08 — https://www.neocate.com/shop/c-7-neocate-infant-dhaara.aspx)"
+Cheese,12 oz,$2.69,12 oz pack slices (https://www.hy-vee.com/grocery/PD1622711/Kraft-Singles-American-Cheese-Slices-16-ct-Pack),dairy,"Tofutti Milk Free Soy American Flavored Cheese Slices (5.24 — $3.49 for 8 oz https://www.hy-vee.com/grocery/PD5495247/Tofutti-Milk-Free-Soy-American-Flavored-Cheese-Slices-12-CT — soy, gluten);
+Go Veggie Pasteurized Process Cheese Food Alternative American Flavor Slices (5.41 — $3.29 for 7.3 oz https://www.hy-vee.com/grocery/PD6466734/Go-Veggie-Pasteurized-Process-Cheese-Food-Alternative-American-Flavor-Slices-12-CT — soy);
+Daiya Cheddar Style Slices (7.68 — $4.99 for 7.8 oz https://www.hy-vee.com/grocery/PD5102424/Daiya-Deliciously-Dairy-Free-Slices-Cheddar-Style-11-CT)"
+Butter,8 oz,$3.29,8 oz (https://www.hy-vee.com/grocery/PD1096958/Land-OLakes-Sweet-Cream-Salted-Sweet-Butter-Half-Sticks-4-ct-Box),dairy,"Earth Balance Vegan Buttery Sticks (2.85 — $5.69 for 1 lb https://www.hy-vee.com/grocery/PD3430580/Earth-Balance-Vegan-Buttery-Sticks-4-ct-Box — soy);
+Earth Balance Soy Free Sticks (3.15 — $6.29 for 1 lb https://www.hy-vee.com/grocery/PD2507759/Earth-Balance-Soy-Free-Buttery-Sticks-1-lb-Box)"

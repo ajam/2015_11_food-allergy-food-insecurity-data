@@ -1,0 +1,266 @@
+[{
+	"name": "Fruit",
+	"image": "images/GettyImages-78360069.png",
+	"size": "3 lbs",
+	"price": 4.21, 
+	"price_note": "3 lbs at average price for apple/banana/orange/grapes ((1.429+0.580+1.480+2.130)*3/4); prices from Bureau of Labor Statistics",
+	"allergens": []
+},
+{
+	"name": "Vegetables",
+	"image": "images/GettyImages-127831994.png",
+	"size": "3 lbs",
+	"price": 4.79, 
+	"price_note": "3 lbs at average price for broccoli/carrots/romaine lettuce/peppers ((1.797+2.66+1.926)*3/4); prices from Bureau of Labor Statistics",
+	"allergens": []
+},
+{
+	"name": "Milk",
+	"image": "images/GettyImages-85637054.png",
+	"size": "1 gal",
+	"price": 3.39, 
+	"price_note": "1 gallon whole milk",
+	"allergens": ["dairy"],
+	"alternatives": [{
+		"name": "8th Continent Soy Milk Original", 
+		"price_note": "based on soy milk requirements for WIC (http://www.kansaswic.org/manual/FCI_01_01_00_Allowable_Food_Selection_Process_and_Product_Requirements.pdf)",
+		"price": 5.98, 
+		"price_note": "$2.99 half gallon based on calling Hy-Vee",
+		"allergens": ["soy"]
+	},{
+		"name": "Almond Milk",
+		"price": 5.98, 
+		"price_note": "$2.99 half gallon (https://www.hy-vee.com/grocery/PD9213205/Silk-Pure-Almond-Almond-Milk-Original)",
+		"allergens": ["tree-nuts"]
+	},{
+		"name": "Rice Milk",
+		"price": 7.58, 
+		"price_note": "$3.79 half gallon (https://www.hy-vee.com/grocery/PD9232260/Rice-Dream-Original-Enriched-Lactose-Free-Rice-Drink-64-fl-oz-Carton)",
+		"allergens": []
+	}]
+},
+{
+	"name": "Bread",
+	"image": "images/GettyImages-200435115-001.png",
+	"size": "16–24 oz",
+	"price": 2.00, 
+	"price_note": "16-24 oz whole wheat",
+	"allergens": ["gluten", "wheat", "soy"],
+	"alternatives": [{
+		"name": "Angelic Bakehouse Sprouted Seven-Grain Bread",
+		"price": 3.99, 
+		"price_note": "price from https://www.hy-vee.com/grocery/PD10052990/Angelic-Bakehouse-Sprouted-Seven-Grain-Bread",
+		"allergens": ["wheat", "gluten"]
+	},{
+		"name": "Ener-G Wheat, Gluten and Dairy Free Tapioca Loaf",
+		"price": 5.99, 
+		"price_note": "price from website (16 oz) https://www.hy-vee.com/grocery/PD5635213/Ener-G-Wheat-Gluten-and-Dairy-Free-Tapioca-Loaf",
+		"allergens": []
+	}]
+},
+{
+	"name": "Peanut butter",
+	"image": "images/GettyImages-89008513.png",
+	"size": "1 lb",
+	"price": 2.68, 
+	"price_note": "1 pound",
+	"allergens": ["peanut"],
+	"alternatives": [{
+		"name": "Wowbutter",
+		"price": 4.79, 
+		"price_note": "1 pound (https://www.hy-vee.com/grocery/PD6527490/Wowbutter-Creamy-Peanut-Free-Spread)",
+		"allergens": ["soy"]
+	},{
+		"name": "Sunbutter",
+		"price": 5.65, 
+		"price_note": "1 pound (http://www.amazon.com/gp/product/B001HTIUDC/ref=s9_al_bw_g325_i4)",
+		"allergens": []
+	}]	
+},
+{
+	"name": "Pizza",
+	"image": "images/GettyImages-122603694.png",
+	"size": "10 oz",
+	"price": 3.89, 
+	"price_note": "10 oz (https://www.hy-vee.com/grocery/PD7868005/DIGIORNO-Traditional-Crust-Supreme-Small-Pizza-10-oz-Box)",
+	"allergens": ["gluten", "wheat", "dairy"],
+	"alternatives": [{
+		"name": "Daiya Deliciously Dairy Free Pizza",
+		"price": 6.06, 
+		"price_note": "7.29 for 12.03 oz https://www.hy-vee.com/grocery/PD8407921/Daiya-Deliciously-Dairy-Free-Pizza-Cheese-Lovers",
+		"allergens": []
+	},{
+		"name": "Udis Gluten Free Pizza",
+		"price": 7.49, 
+		"price_note": "https://www.hy-vee.com/grocery/PD7855635/Udis-Gluten-Free-Three-Cheese-Pizza-10-oz-Box",
+		"allergens": ["dairy"]
+	}]
+},
+{
+	"name": "Canned beans",
+	"image": "images/GettyImages-92912185.png",
+	"size": "12 cans",
+	"price": 10.68, 
+	"price_note": "12 cans",
+	"allergens": []
+},
+{
+	"name": "Pasta",
+	"image": "images/GettyImages-538605225.png",
+	"size": "12 oz",
+	"price": 1.18, 
+	"price_note": "12 oz spaghetti and macaroni (https://www.hy-vee.com/grocery/PD1096980/Ronzini-Healthy-Harvest-100-Whole-Grain-Spaghetti-12-oz-Box)",
+	"allergens": ["wheat", "gluten"],
+	"alternatives": [{
+		"name": "Ronzoni Gluten Free Spaghetti",
+		"price": 2.59, 
+		"price_note": "https://www.hy-vee.com/grocery/PD3522666/Ronzoni-Gluten-Free-Spaghetti",
+		"allergens": []
+	}]
+},
+{
+	"name": "Cookies",
+	"image": "images/GettyImages-122603153.png",
+	"size": "13 oz",
+	"price": 3.79, 
+	"price_note": "13 oz (https://www.hy-vee.com/grocery/PD1588177/Nabisco-Chips-Ahoy-Original-Chocolate-Chip-Cookies-13-oz-Tray)",
+	"allergens": ["wheat", "gluten", "dairy"],
+	"alternatives": [{
+		"name": "Mi-Del Gluten Free All Natural Chocolate Chip Cookies",
+		"price": 5.83, 
+		"price_note": "for 13 oz https://www.hy-vee.com/grocery/PD3496893/Mi-Del-Gluten-Free-All-Natural-Chocolate-Chip-Cookies",
+		"allergens": ["dairy", "eggs"]
+	},{
+		"name": "Lucy's Gluten Free Chocolate Chip Cookies",
+		"price": 9.43, 
+		"price_note": "7.98 for 11 oz https://www.hy-vee.com/grocery/PD4496926/Lucys-Gluten-Free-Chocolate-Chip-Cookies",
+		"allergens": ["soy"]
+	},{
+		"name": "Enjoy Life Soft Baked Cookies Chocolate Chip",
+		"price": 9.51, 
+		"price_note": "8.78 for 12 oz https://www.hy-vee.com/grocery/PD5083066/Enjoy-Life-Soft-Baked-Cookies-Chocolate-Chip",
+		"allergens": []
+	},{
+		"name": "Udi's Gluten Free Soft & Chewy Chocolate Chip Cookies",
+		"price": 9.70, 
+		"price_note": "8.21 for 11 oz https://www.hy-vee.com/grocery/PD4496926/Lucys-Gluten-Free-Chocolate-Chip-Cookies",
+		"allergens": ["eggs"]		
+	}]
+},
+{
+	"name": "Chicken",
+	"image": "images/GettyImages-87993062.png",
+	"size": "4 lbs",
+	"price": 5.68, 
+	"price_note": "4 lbs, with 1.42 fresh, whole, per pound",
+	"allergens": []
+},
+{
+	"name": "Flour",
+	"image": "images/GettyImages-467171269.png",
+	"size": "5 lbs",
+	"price": 2.19, 
+	"price_note": "5 pounds, white all purpose (https://www.hy-vee.com/grocery/PD304344/Gold-Medal-All-Purpose-Flour)",
+	"allergens": ["wheat", "gluten"],
+	"alternatives": [{
+		"name": "Bob's Red Mill Gluten Free All Purpose Baking Flour",
+		"price": 16.69, 
+		"price_note": "4.59 for 22 oz https://www.hy-vee.com/grocery/PD4497122/Bobs-Red-Mill-Gluten-Free-All-Purpose-Baking-Flour",
+		"allergens": []
+	}]
+},
+{
+	"name": "Ice cream",
+	"image": "images/GettyImages-90076911.png",
+	"size": "1 pt",
+	"price": 4.59, 
+	"price_note": "1 pt (https://www.hy-vee.com/grocery/PD8341155/Ben-Jerrys-Chocolate-Chip-Cookie-Dough-Ice-Cream)",
+	"allergens": ["dairy"],
+	"alternatives": [{
+		"name": "So Delicious Dairy Free Cashew Milk Non-Dairy Frozen Dessert",
+		"price": 5.79, 
+		"price_note": "https://www.hy-vee.com/grocery/PD13295013/So-Delicious-Dairy-Free-Cashew-Milk-Non-Dairy-Frozen-Dessert-Snickerdoodle",
+		"allergens": ["tree-nuts"]		
+	},{
+		"name": "So Delicious Dairy Free Coconut Milk Frozen Dessert ",
+		"price": 5.99, 
+		"price_note": "https://www.hy-vee.com/grocery/PD12197385/So-Delicious-Dairy-Free-Coconut-Milk-Frozen-Dessert-Chocolate",
+		"allergens": []			
+	}]
+},
+{
+	"name": "Cereal",
+	"image": "images/GettyImages-71096230.png",
+	"size": "12 oz",
+	"price": 2.99, 
+	"price_note": "12 oz https://www.hy-vee.com/grocery/PD1136527/Kelloggs-Rice-Krispies-Cereal",
+	"allergens": ["gluten"],
+	"alternatives": [{
+		"name": "Rice Chex",
+		"price": 3.39, 
+		"price_note": "12 oz (https://www.hy-vee.com/grocery/PD392481/General-Mills-Rice-Chex-Gluten-Free-Cereal)",
+		"allergens": []
+	}]
+},
+{
+	"name": "Baby formula",
+	"image": "images/GettyImages-85306439.png",
+	"size": "12.4 oz",
+	"price": 14.99, 
+	"price_note": "12.4 oz canister (https://www.hy-vee.com/grocery/PD3454400/Similac-Advance-Infant-Formula-with-Iron-Milk-Based-Powder)",
+	"allergens": ["dairy", "soy"],
+	"alternatives": [{
+		"name": "Similac Soy Infant Formula",
+		"price": 16.18, 
+		"price_note": "https://www.hy-vee.com/grocery/PD5327692/Similac-Soy-Infant-Formula-with-Iron-Isomil",
+		"allergens": ["soy"]
+	},{
+		"name": "Neocate Infant Formula",
+		"price": 34.08, 
+		"price_note": "https://www.neocate.com/shop/c-7-neocate-infant-dhaara.aspx",
+		"allergens": []
+	}]
+},
+{
+	"name": "Cheese",
+	"image": "images/GettyImages-200012637-001.png",
+	"size": "12 oz",
+	"price": 2.69, 
+	"price_note": "12 oz pack slices (https://www.hy-vee.com/grocery/PD1622711/Kraft-Singles-American-Cheese-Slices-16-ct-Pack)",
+	"allergens": ["dairy"],
+	"alternatives": [{
+		"name": "Tofutti Milk Free Soy American Flavored Cheese Slices",
+		"price": 5.24, 
+		"price_note": "$3.49 for 8 oz https://www.hy-vee.com/grocery/PD5495247/Tofutti-Milk-Free-Soy-American-Flavored-Cheese-Slices-12-CT",
+		"allergens": ["soy", "gluten"]
+	},{
+		"name": "Go Veggie Pasteurized Process Cheese Food Alternative American Flavor Slices",
+		"price": 5.41, 
+		"price_note": "$3.29 for 7.3 oz https://www.hy-vee.com/grocery/PD6466734/Go-Veggie-Pasteurized-Process-Cheese-Food-Alternative-American-Flavor-Slices-12-CT",
+		"allergens": ["soy"]
+	},{
+		"name": "Daiya Cheddar Style Slices",
+		"price": 7.68, 
+		"price_note": "$4.99 for 7.8 oz https://www.hy-vee.com/grocery/PD5102424/Daiya-Deliciously-Dairy-Free-Slices-Cheddar-Style-11-CT",
+		"allergens": []
+	}]
+},
+{
+	"name": "Butter",
+	"image": "images/GettyImages-56297418.png",
+	"size": "8 oz",
+	"price": 3.29, 
+	"price_note": "8 oz (https://www.hy-vee.com/grocery/PD1096958/Land-OLakes-Sweet-Cream-Salted-Sweet-Butter-Half-Sticks-4-ct-Box)",
+	"allergens": ["dairy"],
+	"alternatives": [{
+		"name": "Earth Balance Vegan Buttery Sticks",
+		"price": 2.85, 
+		"price_note": "$5.69 for 1 lb https://www.hy-vee.com/grocery/PD3430580/Earth-Balance-Vegan-Buttery-Sticks-4-ct-Box",
+		"allergens": ["soy"]
+	},{
+		"name": "Earth Balance Soy Free Sticks",
+		"price": 3.15, 
+		"price_note": "$6.29 for 1 lb https://www.hy-vee.com/grocery/PD2507759/Earth-Balance-Soy-Free-Buttery-Sticks-1-lb-Box",
+		"allergens": []
+	}]
+}]
